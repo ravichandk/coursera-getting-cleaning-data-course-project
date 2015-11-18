@@ -12,15 +12,15 @@ The script **run_analysis.R** runs an analysis on the data provided in the proje
 
 #Variables
 
-*  'x_train', 'y_train', 'subject_train', 'x_test', 'y_test', 'subject_test'  contains the
+*  `x_train`, `y_train`, `subject_train`, `x_test`, `y_test`, `subject_test`  contains the
 data that has been downloaded.
-*  'x_data', 'y_data', 'subject_data'  contains the merged dataset of x, y and subjects dataset from training and test.
-*  'features', 'mean_std_features'  contains all features and features that contain either mean or std.
-*  'x_mean_std_data'  contains the dataset with columns containing either mean or std information.
-*  'activity_lables'  contains all the labels of the different activities.
-*  'all_mean_std_data'  is the combined result of the datasets  'x_mean_std_data', 'y_data', 'subject_data' 
-*  'all_data_cols_count'  contains the count of the columns in the  'all_mean_std_data' 
-* Finally  'averages_data'  contains the final tidy dataset that has to be presented.
+*  `x_data`, `y_data`, `subject_data`  contains the merged dataset of x, y and subjects dataset from training and test.
+*  `features`, `mean_std_features`  contains all features and features that contain either mean or std.
+*  `x_mean_std_data`  contains the dataset with columns containing either mean or std information.
+*  `activity_lables`  contains all the labels of the different activities.
+*  `all_mean_std_data`  is the combined result of the datasets  `x_mean_std_data`, `y_data`, `subject_data` 
+*  `all_data_cols_count`  contains the count of the columns in the  `all_mean_std_data` 
+* Finally  `averages_data`  contains the final tidy dataset that has to be presented.
 
 #Identifiers
 
