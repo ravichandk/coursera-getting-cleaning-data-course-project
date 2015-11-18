@@ -3,10 +3,10 @@ The repository contains the R code, documentation and final result of the data s
 
 The data used can be found here: [Human Activity Recognition Using Smartphones Data Set ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  "Human Activity Recognition Using Smartphones Data Set ")
 
-# Assumptions
+## Assumptions
 The R code present in the repository assumes that it is being run from the same folder as the data has been extracted and nothing changed.
 
-# Files
+## Files
 ### CodeBook.md 
 Describes the variables, the data, and any transformations or work that you performed to clean up the data
 ### run_analysis.R
